@@ -1,7 +1,7 @@
 # zBingo
 
 This is a simple Bingo game built for one person using React, Node.js, Express and Webpack.
-Click Roll, to roll the next ball, once you feel that you won (all tiles are filled), click <Check Result>.  If you won, the game will check other board whether they won and will declare "GAME OVER" 
+Click Roll, to roll the next ball. Once you feel that you Won (all tiles are filled), click "Check Board".  If you won, the Game will check other boards and will declare "GAME OVER".
 
 # Instructions
 1. `git clone https://github.com/zkovalenko/zBingo.git`

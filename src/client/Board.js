@@ -107,7 +107,7 @@ export class Board extends Component {
         { this.rowNodes() }
 
         <div className={doneBtnClass}>
-            <input className="submit-button" type="button" value="Check Result" onClick={this.verifyWinner.bind(this)}/>
+            <input className="submit-button" type="button" value="Check Board" onClick={this.verifyWinner.bind(this)}/>
         </div>
 
         {this.renderWinner()}
